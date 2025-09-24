@@ -11,27 +11,27 @@
         </a>
         <div class="options">
             <form method="post">
-                <button class="opcao active" name="dashboard" type="submit">
+                <button class="opcao " name="dashboard" type="submit">
                     <i class="fa-solid fa-grip"></i>
                     <span>Dashboard</span>
                 </button>
-                <button class="opcao" name="entradas" type="submit">
+                <button class="opcao " name="entradas" type="submit">
                     <i class="fas fa-sign-in-alt"></i>
                     <span>Entradas</span>
                 </button>
-                <button class="opcao" name="saidas" type="submit">
+                <button class="opcao " name="saidas" type="submit">
                     <i class="fas fa-sign-out-alt"></i>
                     <span>Saídas</span>
                 </button>
-                <button class="opcao" name="metas" type="submit">
+                <button class="opcao " name="metas" type="submit">
                     <i class="fas fa-bullseye"></i>
                     <span>Metas</span>
                 </button>
-                <button class="opcao" name="relatorios" type="submit">
+                <button class="opcao " name="relatorios" type="submit">
                     <i class="fas fa-chart-bar"></i>
                     <span>Relatórios</span>
                 </button>
-                <button class="opcao" name="configuracoes" type="submit">
+                <button class="opcao " name="configuracoes" type="submit">
                     <i class="fas fa-cog"></i>
                     <span>Configurações</span>
                 </button>
