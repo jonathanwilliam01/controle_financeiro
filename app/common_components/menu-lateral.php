@@ -7,6 +7,7 @@
             <div class="logo">
                 <i class="fas fa-chart-line"></i>
                 <h1>Finanças</h1>
+                <h6 style="color:white; margin-left: 5px;">V1.01</h6>
             </div>
         </a>
         <div class="options">
@@ -27,6 +28,18 @@
                     <i class="fas fa-bullseye"></i>
                     <span>Metas</span>
                 </button>
+
+                <!-- Telas exclusivas para acesso especial -->
+                    <button class="opcao " name="categorias" type="submit">
+                        <i class="fas fa-layer-group"></i>
+                        <span>Categorias</span>
+                    </button>
+                    <button class="opcao " name="origens" type="submit">
+                        <i class="fas fa-credit-card"></i>
+                        <span>Origens</span>
+                    </button>
+                <!-- Fim das telas de acesso exclusivo -->
+
                 <button class="opcao " name="relatorios" type="submit">
                     <i class="fas fa-chart-bar"></i>
                     <span>Relatórios</span>
